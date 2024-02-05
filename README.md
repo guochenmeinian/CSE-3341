@@ -1,5 +1,9 @@
 # CSE 3341 - Principles of Programming Languages
 
+- **Instructor**: Tim Carpenter
+- **Institution**: The Ohio State University
+- **Term**: Summer 2023
+
 This repository contains materials for the CSE 3341 course at Ohio State University, focusing on the principles of programming languages. It includes lecture slides, review materials, and projects developed as part of the course curriculum.
 
 ## Structure
